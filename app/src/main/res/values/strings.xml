@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProviderFetcher</string>
+    <string name="get_cp_data">Get CP Data</string>
+</resources>
